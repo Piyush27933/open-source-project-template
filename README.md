@@ -12,7 +12,7 @@
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
 
-## Installation
+## Installation process 
 
 To install all of the template files, run the following script from the root of your project's directory:
 
@@ -104,3 +104,5 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 1. Projects that inspired you
 2. Related projects
 3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+
+
